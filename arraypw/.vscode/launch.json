@@ -1,0 +1,139 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "sin",
+            "request": "launch",
+            "mainClass": "sin",
+            "projectName": "arraypw_a94aab15"
+        },
+        {
+            "type": "java",
+            "name": "enhancedforloop2darray",
+            "request": "launch",
+            "mainClass": "enhancedforloop2darray",
+            "projectName": "arraypw_a94aab15"
+        },
+        {
+            "type": "java",
+            "name": "jaggedarray",
+            "request": "launch",
+            "mainClass": "jaggedarray",
+            "projectName": "arraypw_a94aab15"
+        },
+        {
+            "type": "java",
+            "name": "automaticmethodoverloadin",
+            "request": "launch",
+            "mainClass": "automaticmethodoverloadin",
+            "projectName": "arraypw_a94aab15"
+        },
+        {
+            "type": "java",
+            "name": "arrayexception",
+            "request": "launch",
+            "mainClass": "arrayexception",
+            "projectName": "arraypw_a94aab15"
+        },
+        {
+            "type": "java",
+            "name": "arrayexception",
+            "request": "launch",
+            "mainClass": "arrayexception",
+            "projectName": "arraypw_32995e8f"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "anonymousarray",
+            "request": "launch",
+            "mainClass": "anonymousarray",
+            "projectName": "arraypw_32995e8f"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "arraypw_32995e8f"
+        },
+        {
+            "type": "java",
+            "name": "arrayconstruction",
+            "request": "launch",
+            "mainClass": "arrayconstruction",
+            "projectName": "arraypw_32995e8f"
+        },
+        {
+            "type": "java",
+            "name": "arraylength",
+            "request": "launch",
+            "mainClass": "arraylength",
+            "projectName": "arraypw_32995e8f"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "arraypw_32995e8f"
+        },
+        {
+            "type": "java",
+            "name": "enhancedforloop",
+            "request": "launch",
+            "mainClass": "enhancedforloop",
+            "projectName": "arraypw_32995e8f"
+        },
+        {
+            "type": "java",
+            "name": "enhancedforloop2darray",
+            "request": "launch",
+            "mainClass": "enhancedforloop2darray",
+            "projectName": "arraypw_32995e8f"
+        },
+        {
+            "type": "java",
+            "name": "jaggedarray",
+            "request": "launch",
+            "mainClass": "jaggedarray",
+            "projectName": "arraypw_32995e8f"
+        }
+    ]
+}
